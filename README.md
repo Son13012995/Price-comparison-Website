@@ -1,6 +1,4 @@
- 
-
-Price Comparison Website Report 
+ Price Comparison 
 
 This website is a price-comparison website that is a specialized platform for earbud’s price comparison, designed to assist users in making informed purchase decisions. It empowers users to choose earbuds that match their budget and preferences. Data acquisition is accomplished through a systematic web scraping process, focusing on extracting pricing information and additional data related to earbuds from five designated websites. 
 
